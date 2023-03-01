@@ -8,5 +8,6 @@ Once you enter and run the Twitch ID, the Streamer's VOD will be uploaded to the
 
 It will be saved in path /Twitch/replay on Google Drive.
 
-Colab keeps working without having to keep monitoring.
-### If there's some errors, Try to set quality to '480p'
+Colab keeps working without having to keep monitoring. However, runtime of the Colab is initialized every 12 hours.
+
+Therefore, it should be renewed every 12 hours.
