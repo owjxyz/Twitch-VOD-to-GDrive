@@ -9,4 +9,4 @@ Once you enter and run the Twitch ID, the Streamer's VOD will be uploaded to the
 It will be saved in path /Twitch/replay on Google Drive.
 
 Colab keeps working without having to keep monitoring.
-### If there is some errors, try to set quality to '480p'
+### If there's some errors, Try to set quality to '480p'
