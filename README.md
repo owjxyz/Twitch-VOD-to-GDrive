@@ -1,6 +1,8 @@
 # Gdrive Twitch Uploader
-### <a href="https://github.com/EunGeon222/gdrive-twitch-uploader/archive/refs/heads/main.zip">Download</a>
+
 This code works on Google Colab.
+
+<a href="https://colab.research.google.com/github/EunGeon222/Gdrive-Twitch-Uploader/blob/main/Gdrive%20Twitch%20Uploader.ipynb" target="parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 ### This requires "Client ID" & "Client secret" that you can get from Twitch. (https://dev.twitch.tv/console/apps/create)
 
 ## Features
