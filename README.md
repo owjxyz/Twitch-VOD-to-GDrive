@@ -1,4 +1,4 @@
-# Gdrive Twitch Uploader
+# Twitch VOD Gdrive Uploader
 
 Automatically upload Twtich VOD on Google Drive
 
