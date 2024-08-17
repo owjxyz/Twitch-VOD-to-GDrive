@@ -1,4 +1,4 @@
-<h1>Twitch VOD Gdrive Uploader</h1>
+<h1>Twitch VOD GDrive Uploader</h1>
 
 <a href="https://colab.research.google.com/github/owjxyz/Twitch-VOD-to-Gdrive/blob/main/Twitch_VOD_Uploader.ipynb" target="parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
